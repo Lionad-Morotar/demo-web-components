@@ -2,7 +2,7 @@
 
 ## view
 
-[view](./view.png)
+![view](./view.png)
 
 ## code
 
